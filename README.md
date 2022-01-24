@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ndanhdien12498
+- 👋 Hi, I’m Diên
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with all of you
